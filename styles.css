@@ -237,6 +237,8 @@ body, html {
     top: 18%;
     border: 0.1vw solid black;
     border-radius: 10vw;
+    height: 17vw
+    width: 23vw
 }
 
 .pic6 img{
@@ -246,6 +248,7 @@ body, html {
     border: 0.1vw solid black;
     border-radius: 10vw;
     height: 17vw;
+    width: 23vw
 }
 
 .pic7 img{
